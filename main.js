@@ -85,6 +85,7 @@ function wireContact() {
     if (k === "email" && email) { href = `mailto:${email}`; label = email; }
     if (k === "phone" && phone) { href = `tel:${phone}`; label = phoneDisplay || phone; }
     if (k === "linkedin" && linkedin) { href = linkedin; label = pretty(linkedin); }
+    if (k === "whatsapp" && CONTACT.whatsapp) { href = `https://wa.me/${CONTACT.whatsapp.replace(/\D/g, "")}?text=${encodeURIComponent("Hi Atif, I found your portfolio and would like to discuss a Shopify project.")}`; label = "WhatsApp"; }
     if (k === "youtube" && youtube) { href = youtube; label = pretty(youtube); }
     if (k === "start") {
       if (email) href = `mailto:${email}?subject=${encodeURIComponent("Shopify project enquiry")}`;

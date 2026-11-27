@@ -10,6 +10,7 @@ export const CONTACT = {
   phone: "+923211717179",
   phoneDisplay: "+92 321 1717179",
   linkedin: "https://www.linkedin.com/in/atif-nawaz-47b07a281",
+  whatsapp: "923211717179", // digits only, with country code (opens wa.me chat)
   youtube: "", // e.g. "https://www.youtube.com/@your-channel"  (blank = hidden)
 };
 
