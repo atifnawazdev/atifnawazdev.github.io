@@ -38,8 +38,8 @@ export const PROJECTS_ALL = [
     summary: "Cart drawer — tiered discount progress bar, free-gift line, line items and secure checkout.",
     highlights: [],
     art: "rings",
-    desktopImage: "assets/clarendale-desktop.jpg",
-    mobileImage: "assets/clarendale-mobile.jpg",
+    desktopImage: "clarendale-desktop.jpg",
+    mobileImage: "clarendale-mobile.jpg",
   },
   {
     title: "ADRORA KITCHEN",
@@ -50,8 +50,8 @@ export const PROJECTS_ALL = [
     summary: "Product page — gallery, free-gift stack, urgency progress bar and feature badges.",
     highlights: [],
     art: "stripes",
-    desktopImage: "assets/adrora-desktop.jpg",
-    mobileImage: "assets/adrora-mobile.jpg",
+    desktopImage: "adrora-desktop.jpg",
+    mobileImage: "adrora-mobile.jpg",
   },
   {
     hidden: true, // no screenshots supplied yet
@@ -63,8 +63,8 @@ export const PROJECTS_ALL = [
     summary: "",
     highlights: [],
     art: "dots",
-    desktopImage: "assets/metabolae-desktop.jpg",
-    mobileImage: "assets/metabolae-mobile.jpg",
+    desktopImage: "metabolae-desktop.jpg",
+    mobileImage: "metabolae-mobile.jpg",
   },
   {
     hidden: true, // no screenshots supplied yet
@@ -76,8 +76,8 @@ export const PROJECTS_ALL = [
     summary: "",
     highlights: [],
     art: "rings",
-    desktopImage: "assets/pinnafit-desktop.jpg",
-    mobileImage: "assets/pinnafit-mobile.jpg",
+    desktopImage: "pinnafit-desktop.jpg",
+    mobileImage: "pinnafit-mobile.jpg",
   },
   {
     title: "SHOPJOGA",
@@ -88,8 +88,8 @@ export const PROJECTS_ALL = [
     summary: "Product slider cards with pricing and compare-at prices.",
     highlights: [],
     art: "stripes",
-    desktopImage: "assets/shopjoga-desktop.jpg",
-    mobileImage: "assets/shopjoga-mobile.jpg",
+    desktopImage: "shopjoga-desktop.jpg",
+    mobileImage: "shopjoga-mobile.jpg",
   },
   {
     title: "DONACCI",
@@ -100,8 +100,8 @@ export const PROJECTS_ALL = [
     summary: "Main menu with featured collection tiles, desktop and mobile.",
     highlights: [],
     art: "rings",
-    desktopImage: "assets/donacci-desktop.jpg",
-    mobileImage: "assets/donacci-mobile.jpg",
+    desktopImage: "donacci-desktop.jpg",
+    mobileImage: "donacci-mobile.jpg",
   },
   {
     title: "SNEAKERASK",
@@ -112,8 +112,8 @@ export const PROJECTS_ALL = [
     summary: "Brand grid with featured collections on desktop; product page on mobile.",
     highlights: [],
     art: "dots",
-    desktopImage: "assets/sneakerask-desktop.jpg",
-    mobileImage: "assets/sneakerask-mobile.jpg",
+    desktopImage: "sneakerask-desktop.jpg",
+    mobileImage: "sneakerask-mobile.jpg",
   },
 ];
 
